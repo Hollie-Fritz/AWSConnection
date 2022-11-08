@@ -1,0 +1,7 @@
+React Website: https://main.d2jt91ojof43t1.amplifyapp.com/
+
+Became familiar with how to use Amplify to host a React application using AWS resources:
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
+
+I was able to succesfully get a React app up and running using AWS. I tried out the tutorial for user authentication (which uses Cognito) although we as a group are unsure if we're going to use AWS for authentication yet. 
+I also completed the GraphQL API integration to become more comfortable using AWS and the commands it requires in the terminal.
